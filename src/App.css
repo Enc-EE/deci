@@ -24,6 +24,10 @@
   color: white;
 }
 
+.sub-text {
+  font-size: calc(18px + 3vmin);
+}
+
 .App-link {
   color: #61dafb;
 }
